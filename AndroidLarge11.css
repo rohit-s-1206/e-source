@@ -1,0 +1,212 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.android-large-11-child {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  background-color: var(--color-blue);
+  width: 65px;
+  height: 65px;
+}
+.vecteezy-technology-background-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  width: 858px;
+  height: 1121px;
+  object-fit: cover;
+}
+.android-icon {
+  position: absolute;
+  top: 8px;
+  left: 80px;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.vector-icon1,
+.vector-icon2,
+.vector-icon3,
+.vector-icon4 {
+  position: absolute;
+  height: 2.5%;
+  width: 6.42%;
+  top: 0.63%;
+  right: 16.63%;
+  bottom: 96.88%;
+  left: 76.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon2,
+.vector-icon3,
+.vector-icon4 {
+  height: 2.19%;
+  width: 6.94%;
+  top: 1%;
+  right: 25%;
+  bottom: 96.81%;
+  left: 68.06%;
+}
+.vector-icon3,
+.vector-icon4 {
+  height: 1.56%;
+  top: 1.25%;
+  right: 6.94%;
+  bottom: 97.19%;
+  left: 86.11%;
+}
+.vector-icon4 {
+  height: 2.73%;
+  width: 6.08%;
+  top: 1%;
+  right: 61.98%;
+  bottom: 96.27%;
+  left: 31.94%;
+}
+.pm {
+  position: absolute;
+  top: 12px;
+  left: 10px;
+  font-size: var(--font-size-2xs);
+  display: inline-block;
+  color: var(--color-black);
+  text-align: left;
+  width: 70px;
+  height: 16px;
+}
+.android-large-11-item {
+  position: absolute;
+  top: 49px;
+  left: 0;
+  width: 360px;
+  height: 65px;
+  object-fit: cover;
+}
+.icon-hamburger-button,
+.icon-mail1,
+.icon-search,
+.icon-user {
+  position: absolute;
+  height: 6.31%;
+  width: 14.01%;
+  top: 6.94%;
+  right: 18.06%;
+  bottom: 86.75%;
+  left: 67.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-hamburger-button,
+.icon-mail1,
+.icon-user {
+  height: 5.39%;
+  width: 13.89%;
+  top: 7.38%;
+  right: 83.33%;
+  bottom: 87.23%;
+  left: 2.78%;
+}
+.icon-mail1,
+.icon-user {
+  height: 6.36%;
+  top: 6.94%;
+  right: 2.78%;
+  bottom: 86.69%;
+  left: 83.33%;
+}
+.icon-mail1 {
+  height: 6.25%;
+  width: 14.14%;
+  top: 7%;
+  right: 36.82%;
+  bottom: 86.75%;
+  left: 49.04%;
+}
+.android-large-11-inner {
+  border: 0;
+  background-color: var(--color-black);
+  position: absolute;
+  top: 114px;
+  left: 0;
+  width: 360px;
+  height: 76px;
+}
+.help {
+  position: absolute;
+  top: 130px;
+  left: 17px;
+  font-size: var(--font-size-base);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 336px;
+  height: 54px;
+}
+.android-large-11-child2,
+.rectangle-button,
+.rectangle-div {
+  position: absolute;
+  left: 0;
+  border-radius: var(--br-sm);
+  width: 360px;
+  height: 56px;
+}
+.rectangle-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-yellow-100);
+  top: 248px;
+}
+.android-large-11-child2,
+.rectangle-div {
+  top: 312px;
+  background-color: var(--color-black);
+}
+.android-large-11-child2 {
+  top: 377px;
+}
+.e-mail-id,
+.for-further-details,
+.mob-no-91 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.for-further-details {
+  top: 249px;
+  left: 44px;
+  color: var(--color-black);
+  width: 273px;
+  height: 55px;
+}
+.e-mail-id,
+.mob-no-91 {
+  top: 324px;
+  left: 57px;
+  width: 260px;
+  height: 35px;
+}
+.e-mail-id {
+  top: 386px;
+  left: 0;
+  width: 360px;
+}
+.android-large-11 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 800px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

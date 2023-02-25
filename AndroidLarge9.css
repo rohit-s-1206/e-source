@@ -1,0 +1,179 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.android-large-9-child {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  background-color: var(--color-blue);
+  width: 65px;
+  height: 65px;
+}
+.vecteezy-technology-background-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  width: 858px;
+  height: 1121px;
+  object-fit: cover;
+}
+.android-icon2 {
+  position: absolute;
+  top: 8px;
+  left: 80px;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.vector-icon10,
+.vector-icon11,
+.vector-icon12,
+.vector-icon9 {
+  position: absolute;
+  height: 2.5%;
+  width: 6.42%;
+  top: 0.63%;
+  right: 16.63%;
+  bottom: 96.88%;
+  left: 76.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon10,
+.vector-icon11,
+.vector-icon12 {
+  height: 2.19%;
+  width: 6.94%;
+  top: 1%;
+  right: 25%;
+  bottom: 96.81%;
+  left: 68.06%;
+}
+.vector-icon11,
+.vector-icon12 {
+  height: 1.56%;
+  top: 1.25%;
+  right: 6.94%;
+  bottom: 97.19%;
+  left: 86.11%;
+}
+.vector-icon12 {
+  height: 2.73%;
+  width: 6.08%;
+  top: 1%;
+  right: 61.98%;
+  bottom: 96.27%;
+  left: 31.94%;
+}
+.pm2 {
+  position: absolute;
+  top: 12px;
+  left: 10px;
+  display: inline-block;
+  text-align: left;
+  width: 70px;
+  height: 16px;
+}
+.android-large-9-item {
+  position: absolute;
+  top: 49px;
+  left: 0;
+  width: 360px;
+  height: 65px;
+  object-fit: cover;
+}
+.icon-hamburger-button2,
+.icon-mail3,
+.icon-search2,
+.icon-user2 {
+  position: absolute;
+  height: 6.31%;
+  width: 14.01%;
+  top: 6.94%;
+  right: 18.06%;
+  bottom: 86.75%;
+  left: 67.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-hamburger-button2,
+.icon-mail3,
+.icon-user2 {
+  height: 5.39%;
+  width: 13.89%;
+  top: 7.38%;
+  right: 83.33%;
+  bottom: 87.23%;
+  left: 2.78%;
+}
+.icon-mail3,
+.icon-user2 {
+  height: 6.36%;
+  top: 6.94%;
+  right: 2.78%;
+  bottom: 86.69%;
+  left: 83.33%;
+}
+.icon-mail3 {
+  height: 6.25%;
+  width: 14.14%;
+  top: 7%;
+  right: 36.82%;
+  bottom: 86.75%;
+  left: 49.04%;
+}
+.android-large-9-inner {
+  position: absolute;
+  top: 114px;
+  left: 0;
+  background-color: var(--color-black);
+  width: 360px;
+  height: 76px;
+}
+.evaluation {
+  position: absolute;
+  top: 130px;
+  left: 17px;
+  font-size: var(--font-size-base);
+  display: flex;
+  color: var(--color-white);
+  align-items: center;
+  justify-content: center;
+  width: 336px;
+  height: 54px;
+}
+.android-large-9-child1 {
+  position: absolute;
+  top: 280px;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-yellow-100);
+  width: 360px;
+  height: 240px;
+}
+.check-your-evaluation {
+  position: absolute;
+  top: 303px;
+  left: 40px;
+  font-size: var(--font-size-lg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 293px;
+  height: 192px;
+}
+.android-large-9 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 800px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-2xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,427 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.android-large-8-child {
+  position: absolute;
+  top: 50px;
+  left: 0;
+  background-color: var(--color-blue);
+  width: 65px;
+  height: 65px;
+}
+.vecteezy-technology-background-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  width: 858px;
+  height: 1121px;
+  object-fit: cover;
+}
+.android-icon3 {
+  position: absolute;
+  top: 8px;
+  left: 80px;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.vector-icon13,
+.vector-icon14,
+.vector-icon15,
+.vector-icon16 {
+  position: absolute;
+  height: 2.5%;
+  width: 6.42%;
+  top: 0.63%;
+  right: 16.63%;
+  bottom: 96.88%;
+  left: 76.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon14,
+.vector-icon15,
+.vector-icon16 {
+  height: 2.19%;
+  width: 6.94%;
+  top: 1%;
+  right: 25%;
+  bottom: 96.81%;
+  left: 68.06%;
+}
+.vector-icon15,
+.vector-icon16 {
+  height: 1.56%;
+  top: 1.25%;
+  right: 6.94%;
+  bottom: 97.19%;
+  left: 86.11%;
+}
+.vector-icon16 {
+  height: 2.73%;
+  width: 6.08%;
+  top: 1%;
+  right: 61.98%;
+  bottom: 96.27%;
+  left: 31.94%;
+}
+.pm3 {
+  position: absolute;
+  top: 12px;
+  left: 10px;
+  font-size: var(--font-size-2xs);
+  display: inline-block;
+  text-align: left;
+  width: 70px;
+  height: 16px;
+}
+.android-large-8-item {
+  position: absolute;
+  top: 49px;
+  left: 0;
+  width: 360px;
+  height: 65px;
+  object-fit: cover;
+}
+.icon-hamburger-button3,
+.icon-mail4,
+.icon-search3,
+.icon-user3 {
+  position: absolute;
+  height: 6.31%;
+  width: 14.01%;
+  top: 6.94%;
+  right: 18.06%;
+  bottom: 86.75%;
+  left: 67.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-hamburger-button3,
+.icon-mail4,
+.icon-user3 {
+  height: 5.39%;
+  width: 13.89%;
+  top: 7.38%;
+  right: 83.33%;
+  bottom: 87.23%;
+  left: 2.78%;
+}
+.icon-mail4,
+.icon-user3 {
+  height: 6.36%;
+  top: 6.94%;
+  right: 2.78%;
+  bottom: 86.69%;
+  left: 83.33%;
+}
+.icon-mail4 {
+  height: 6.25%;
+  width: 14.14%;
+  top: 7%;
+  right: 36.82%;
+  bottom: 86.75%;
+  left: 49.04%;
+}
+.android-large-8-inner {
+  position: absolute;
+  top: 114px;
+  left: 0;
+  background-color: var(--color-black);
+  width: 360px;
+  height: 76px;
+}
+.staff-and-faculty {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.communication {
+  margin: 0;
+}
+.staff-and-faculty-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.staff-and-faculty-container {
+  position: absolute;
+  top: 130px;
+  left: 17px;
+  font-size: var(--font-size-base);
+  display: flex;
+  color: var(--color-white);
+  align-items: center;
+  width: 336px;
+  height: 54px;
+}
+.android-large-8-child1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-yellow-100);
+  position: absolute;
+  top: 205px;
+  left: 4px;
+  width: 114px;
+  height: 39px;
+}
+.android-large-8-child2,
+.android-large-8-child3,
+.android-large-8-child4 {
+  border: 0;
+  background-color: var(--color-paleturquoise);
+  position: absolute;
+  top: 258px;
+  left: 4px;
+  width: 114px;
+  height: 39px;
+}
+.android-large-8-child3,
+.android-large-8-child4 {
+  left: 126px;
+}
+.android-large-8-child4 {
+  top: 308px;
+}
+.android-large-8-child5,
+.android-large-8-child6,
+.android-large-8-child7,
+.android-large-8-child8,
+.android-large-8-child9 {
+  border: 0;
+  background-color: var(--color-paleturquoise);
+  position: absolute;
+  top: 358px;
+  left: 126px;
+  width: 114px;
+  height: 39px;
+}
+.android-large-8-child6,
+.android-large-8-child7,
+.android-large-8-child8,
+.android-large-8-child9 {
+  top: 408px;
+}
+.android-large-8-child7,
+.android-large-8-child8,
+.android-large-8-child9 {
+  top: 458px;
+}
+.android-large-8-child8,
+.android-large-8-child9 {
+  top: 508px;
+}
+.android-large-8-child9 {
+  top: 558px;
+}
+.android-large-8-child10 {
+  border: 0;
+  top: 608px;
+}
+.android-large-8-child10,
+.android-large-8-child11,
+.android-large-8-child12,
+.android-large-8-child13 {
+  position: absolute;
+  left: 126px;
+  background-color: var(--color-paleturquoise);
+  width: 114px;
+  height: 39px;
+}
+.android-large-8-child11 {
+  border: 0;
+  top: 658px;
+}
+.android-large-8-child12,
+.android-large-8-child13 {
+  top: 708px;
+}
+.android-large-8-child13 {
+  top: 758px;
+}
+.android-large-8-child14,
+.android-large-8-child15,
+.android-large-8-child16,
+.android-large-8-child17 {
+  position: absolute;
+  top: 808px;
+  left: 126px;
+  background-color: var(--color-paleturquoise);
+  width: 114px;
+  height: 39px;
+}
+.android-large-8-child15,
+.android-large-8-child16,
+.android-large-8-child17 {
+  top: 858px;
+}
+.android-large-8-child16,
+.android-large-8-child17 {
+  top: 908px;
+}
+.android-large-8-child17 {
+  top: 258px;
+  left: 248px;
+}
+.android-large-8-child18,
+.android-large-8-child19,
+.android-large-8-child20,
+.android-large-8-child21 {
+  position: absolute;
+  top: 308px;
+  left: 248px;
+  background-color: var(--color-paleturquoise);
+  width: 114px;
+  height: 39px;
+}
+.android-large-8-child19,
+.android-large-8-child20,
+.android-large-8-child21 {
+  top: 358px;
+}
+.android-large-8-child20,
+.android-large-8-child21 {
+  top: 408px;
+}
+.android-large-8-child21 {
+  top: 458px;
+}
+.android-large-8-child22,
+.android-large-8-child23,
+.android-large-8-child24,
+.android-large-8-child25 {
+  position: absolute;
+  top: 508px;
+  left: 248px;
+  background-color: var(--color-paleturquoise);
+  width: 114px;
+  height: 39px;
+}
+.android-large-8-child23,
+.android-large-8-child24,
+.android-large-8-child25 {
+  top: 558px;
+}
+.android-large-8-child24,
+.android-large-8-child25 {
+  top: 608px;
+}
+.android-large-8-child25 {
+  top: 658px;
+}
+.android-large-8-child26,
+.android-large-8-child27,
+.android-large-8-child28,
+.android-large-8-child29 {
+  position: absolute;
+  top: 708px;
+  left: 248px;
+  background-color: var(--color-paleturquoise);
+  width: 114px;
+  height: 39px;
+}
+.android-large-8-child27,
+.android-large-8-child28,
+.android-large-8-child29 {
+  top: 758px;
+}
+.android-large-8-child28,
+.android-large-8-child29 {
+  top: 308px;
+  left: 4px;
+}
+.android-large-8-child29 {
+  top: 358px;
+}
+.android-large-8-child30,
+.android-large-8-child31,
+.android-large-8-child32,
+.android-large-8-child33 {
+  position: absolute;
+  top: 408px;
+  left: 4px;
+  background-color: var(--color-paleturquoise);
+  width: 114px;
+  height: 39px;
+}
+.android-large-8-child31,
+.android-large-8-child32,
+.android-large-8-child33 {
+  top: 458px;
+}
+.android-large-8-child32,
+.android-large-8-child33 {
+  top: 508px;
+}
+.android-large-8-child33 {
+  top: 558px;
+}
+.android-large-8-child34,
+.android-large-8-child35,
+.android-large-8-child36,
+.android-large-8-child37 {
+  position: absolute;
+  top: 608px;
+  left: 4px;
+  background-color: var(--color-paleturquoise);
+  width: 114px;
+  height: 39px;
+}
+.android-large-8-child35,
+.android-large-8-child36,
+.android-large-8-child37 {
+  top: 658px;
+}
+.android-large-8-child36,
+.android-large-8-child37 {
+  top: 708px;
+}
+.android-large-8-child37 {
+  top: 758px;
+}
+.android-large-8-child38,
+.android-large-8-child39 {
+  position: absolute;
+  top: 205px;
+  left: 126px;
+  background-color: var(--color-yellow-100);
+  width: 114px;
+  height: 39px;
+}
+.android-large-8-child39 {
+  left: 247px;
+}
+.chat,
+.contact-no,
+.staff-faculty {
+  position: absolute;
+  top: 207px;
+  left: 9px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 106px;
+  height: 37px;
+}
+.chat,
+.contact-no {
+  left: 132px;
+  width: 107px;
+}
+.chat {
+  left: 249px;
+}
+.android-large-8 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 800px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

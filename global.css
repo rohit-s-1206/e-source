@@ -1,0 +1,28 @@
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-italianno: Italianno;
+  --font-jacques-francois: "Jacques Francois";
+
+  /* font sizes */
+  --font-size-2xs: 12px;
+  --font-size-xs: 15px;
+  --font-size-sm: 16px;
+  --font-size-base: 20px;
+  --font-size-lg: 40px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-yellow-100: #fff500;
+  --color-blue: #0009ea;
+  --color-paleturquoise: #85e5f2;
+  --color-mediumslateblue: #a468f1;
+  --color-skyblue: #a6e4ff;
+
+  /* border radiuses */
+  --br-xs: 10px;
+  --br-sm: 14px;
+  --br-md: 35px;
+  --br-lg: 429px;
+}
